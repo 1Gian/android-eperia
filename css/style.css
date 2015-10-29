@@ -14,13 +14,40 @@
 }
 
 
+
+/**FOOTER**/
+
 footer {
     background: #37474F;
     color: #fff;
     position: relative;
     width: 100%;
-
 }
+.border-box, .col, .ratio-content, .device-panel-bg, .background, .header-site, footer, .google-nav, .index .intro-title, .device-panel, .device-page .intro-content, .phone-centered, .phone-text-panel, .device-images, ul.retailers li, ul.playerapps li {
+    box-sizing: border-box;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {
+    display: block;
+}
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/**FOOTER**/
+
+
+
 
 .sign-up {
     margin: 0 auto;
