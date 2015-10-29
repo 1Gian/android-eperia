@@ -33,6 +33,60 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
     box-sizing: border-box;
 }
 
+* {
+    box-sizing: border-box;
+}
+user agent stylesheetarticle, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+Inherited from body.nexus-layout.index.hoverable
+body {
+    background: #fff;
+    color: #444;
+    font: 300 16px/1.6 "RobotoDraft",arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+}
+Inherited from html.js.flexbox.flexboxlegacy.canvas.canvastext.webgl.touch.geolocation.postmessage.websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+
+Inherited from body.nexus-layout.index.hoverable
+body {
+    background: #fff;
+    color: #444;
+    font: 300 16px/1.6 "RobotoDraft",arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+}
+Inherited from html.js.flexbox.flexboxlegacy.canvas.canvastext.webgl.touch.geolocation.postmessage.websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::before element
+*:before, *:after {
+    box-sizing: border-box;
+}
+Pseudo ::after element
+.clearfix:after, .nav-product:after, .header-site:after, .mobile-header:after, footer:after, .google-nav:after, .index .intro-title:after, .devices-panel:after, ul.retailers:after, .color-selector:after, ul.playerapps:after 
+}
+
+
+Pseudo ::after element
+.clearfix:after, .nav-product:after, .header-site:after, .mobile-header:after, footer:after, .google-nav:after, .index .intro-title:after, .devices-panel:after, ul.retailers:after, .color-selector:after, ul.playerapps:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+*:before, *:after {
+    box-sizing: border-box;
+}
 
 
 
